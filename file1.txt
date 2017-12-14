@@ -1,0 +1,2 @@
+first line before any commit
+line 111 after commit
